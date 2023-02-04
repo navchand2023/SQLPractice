@@ -1,1 +1,2 @@
-select * from providers;
+select * 
+from providers;
